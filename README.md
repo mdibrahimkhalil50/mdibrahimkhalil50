@@ -3,14 +3,14 @@
 
 
 ### Hi there 👋, I am  Md.Ibrahim
-#### I am feature Web Developer
-![I am feature Web Developer](https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/436271052_122143245134227857_1286506695190163338_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHTMkDbvbLuPHU58r3gmLwjSJoSobTm3kRImhKhtObeRMnAwUtzr6hMVn-emlsO4cpyvw8_j0g3c87QTtoeXJjf&_nc_ohc=h3YMsJsSbWcQ7kNvgHrZE_I&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AYDN5Et5Sh0T9p-C5xuWgic9-YW2w4Or25XAyvLPrfBuYA&oe=66502F5E)
+#### I am future Web Developer
+![I am future Web Developer](https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/436271052_122143245134227857_1286506695190163338_n.jpg?stp=dst-jpg_p720x720&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHTMkDbvbLuPHU58r3gmLwjSJoSobTm3kRImhKhtObeRMnAwUtzr6hMVn-emlsO4cpyvw8_j0g3c87QTtoeXJjf&_nc_ohc=h3YMsJsSbWcQ7kNvgHrZE_I&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AYDN5Et5Sh0T9p-C5xuWgic9-YW2w4Or25XAyvLPrfBuYA&oe=66502F5E)
 
-I am a student,  Dept. of computer science and engineering
+I am a student,  Dept. of Computer Science and Engineering
 
 Skills:  HTML /CSS/JS
 
-- 🔭 I’m currently working on Study at sylhet engineering college,sylhet 
+- 🔭 I’m currently working on Study at Sylhet Engineering College,Sylhet 
 - 🌱 I’m currently learning c++/Python/css/html 
 - 👯 I’m looking to collaborate on All honest human 
 - 💬 Ask me about WEB DEVELOPER 
